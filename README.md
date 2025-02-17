@@ -13,9 +13,3 @@ A C++ implementation of the Single-Pass In-Memory Indexing (SPIMI) algorithm to 
 
 - C++17 or newer compiler (e.g., `g++`, `clang++`).
 - Standard Library (no external dependencies required).
-
-## Usage
-
-1. **Compilation**:
-   ```bash
-   g++ -std=c++17 -o spimi *.cpp
